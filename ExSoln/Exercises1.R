@@ -4,7 +4,7 @@ library(mirt)
 
 
 # 1) Load the data using a load statement
-load("TimssData.Rdata")
+load("../TimssData.Rdata")
 
 
 # 2) Fit the PCM, GPCM and graded response models
